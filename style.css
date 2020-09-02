@@ -1,7 +1,13 @@
 h1#contact {
     color: chocolate;
 }
-h1#home{
+
+h1#blog{
+    color: blueviolet;
+    font-size: 1em;
+}
+
+  h1#home{
     color: aquamarine;
     font-size: 28px;
 }
