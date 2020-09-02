@@ -1,6 +1,10 @@
 h1#contact {
     color: chocolate;
 }
+
 h1#blog{
     color: blueviolet;
+
+  h1#home{
+    color: aquamarine;
 }
