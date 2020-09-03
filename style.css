@@ -8,6 +8,53 @@ h1#blog{
 }
 
   h1#home{
-    color: aquamarine;
-    font-size: 28px;
+        color: aquamarine;
+        font-size: 28px;
+        float:left;
+        font-weight: bold;
+}
+body{
+    background-color: #2B375A  ;
+    font-family:Arial, helvetica, sons-serif;
+    margin:0;
+    padding: 0;
+    text-align: left;
+    font-size:13px;
+    color: #000000;
+}
+#header{
+    width:960px ;
+    height: 85px;
+}
+#header h1{
+
+}
+#menu{
+    display: block;
+    float: left;
+    clear: both;
+    width: 960px;
+    height: 54px;
+    padding-top: 12px;
+    background-color: #4E597A;
+}
+#menu ul{
+    list-style: none;
+    padding: 0;
+    margin-left: auto;
+    width: 960px;
+}
+#menu li{
+    list-style: none;
+    padding: 0;
+}
+
+#menu li a,#menu li a:visited{
+    float: left;
+    color: #161617  ;
+    text-decoration: none;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 0 13px 0 13px;
 }
